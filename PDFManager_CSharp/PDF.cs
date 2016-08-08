@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.IO;
 using System.Windows.Forms;
-using ICSharpCode.SharpZipLib.Zip;
 
 namespace PDFManager_CSharp
 {
